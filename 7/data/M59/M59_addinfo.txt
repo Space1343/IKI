@@ -1,0 +1,5 @@
+pix2arcsec	1.350
+Morphology	E5
+Diameter['']	322.20
+Diameter[kpc]	25.01
+Mass{Msol]	???
